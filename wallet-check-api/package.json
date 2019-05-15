@@ -1,0 +1,26 @@
+{
+  "name": "wallet-check-api",
+  "version": "1.0.0",
+  "description": "REST api for wallet check application in angular.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtgomez96/Wallet-Check.git"
+  },
+  "author": "andrew gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewtgomez96/Wallet-Check/issues"
+  },
+  "homepage": "https://github.com/andrewtgomez96/Wallet-Check#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
